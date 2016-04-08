@@ -1,0 +1,5 @@
+I'm thinking about what I could implement this next month.
+
+ - Fun web game using HTML 5
+ - iOS App
+ - Create a website
